@@ -4,9 +4,9 @@ const (
 	// OSSBucket : oss bucket 名
 	OSSBucket = "nxj-filestore"
 	// OSSEndpoint : oss endpoint
-	OSSEndpoint = "oss-cn-hangzhou.aliyuncs.com"
+	OSSEndpoint = "xxx.com"
 	// OSSAccessKeyID : AccessKeyID
-	OSSAccessKeyID = "LTAI5tJEQ76e7p13r6sh2W2C"
+	OSSAccessKeyID = "xxx"
 	// OSSAccessKeySecret : AccessKeySecret
-	OSSAccessKeySecret = "SYZLxxzIIrmzLKBlculgXUhaChDEPe"
+	OSSAccessKeySecret = "xxx"
 )
