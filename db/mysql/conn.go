@@ -12,7 +12,7 @@ var db *sql.DB
 
 // 初始化
 func init() {
-	db, _ = sql.Open("mysql", "root:234567@tcp(47.102.42.113:3410)/nt_competition?charset=utf8&parseTime=true")
+	db, _ = sql.Open("mysql", "root:234567@tcp(xx.xxx.xx.xxx:3306)/nt_competition?charset=utf8&parseTime=true")
 	// 最大连接数
 	db.SetMaxOpenConns(1000)
 	// 连接测试
